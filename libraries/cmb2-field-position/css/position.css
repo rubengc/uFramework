@@ -1,0 +1,32 @@
+.cmb-type-position .cmb2-position-table {
+    margin-bottom: 0.5em;
+    border-collapse: collapse;
+}
+
+.cmb-type-position .cmb2-position-table th {
+    color: #797979;
+}
+
+.cmb-type-position .cmb2-position-table th,
+.cmb-type-position .cmb2-position-table td {
+    padding: 0;
+    width: auto;
+    font-size: 12px;
+}
+
+.cmb-type-position .cmb2-position-table th:not(:first-child),
+.cmb-type-position .cmb2-position-table td:not(:first-child) {
+    padding-left: 5px;
+}
+
+.cmb-type-position label {
+    font-weight: 600;
+}
+
+.cmb-type-position input.cmb2-position-offset {
+    margin-top: 3px;
+    padding: 4px;
+    vertical-align: middle;
+    line-height: 28px;
+    height: 28px;
+}
